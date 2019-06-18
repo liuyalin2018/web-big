@@ -116,7 +116,7 @@ input{
 	margin-top: 5px;
 	border-top: 4px solid #3aa747;
 	border-bottom:1px solid #333;
-	background: url('所需小图/banner.png') no-repeat center;
+	background: url('所需小图/banner.png') center;
 }
 .one{
 	width: 80px;
@@ -253,7 +253,7 @@ input{
 }
 .tupian div{
 	position: absolute;
-	height:42px;
+	height:47px;
 	width:273px;
 	bottom: 0px;
 	padding-top: 8px;
